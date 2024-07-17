@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=J?-1
+Change Component Footprint: Designator=J? Old Footprint=694106301002 New Footprint=694106301002
+Change Component Footprint: Designator=C? Old Footprint=CAP-Radial-Pitch-5mm New Footprint=CAP-Radial-Pitch-5mm
+Change Component Footprint: Designator=C? Old Footprint=CAP-Radial-Pitch-5mm New Footprint=CAP-Radial-Pitch-5mm
+Added Pin To Net: NetName=V_IN Pin=C?-2
+Added Pin To Net: NetName=V_IN Pin=U?-8
+Added Member To Class: ClassName=power supply Member=Component C? 220u/63V
+Added Member To Class: ClassName=power supply Member=Component C? 220u/25V
+Added Member To Class: ClassName=power supply Member=Component R? 6.34k
+Added Member To Class: ClassName=power supply Member=Component R? 63.4k
+Added Member To Class: ClassName=power supply Member=Component U? LD39200PU33R

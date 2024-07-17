@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=TD1_P Pin=D5-K
+Add Pin To Net: Unknown Pin: Pin U4-13
+Add Differential Pair: Number of nets in differential pair TD1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_RXD is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_TXD is 1 instead of 2
+Added Room: Name=Ethernet_1
+Added Room: Name=Ethernet_2
+Added Room: Name=Ethernet_3
+Added Room: Name=MCU
+Added Room: Name=power supply
+Added Room: Name=USB and aother interfaces
+Add Class Member: Failed to add class member : TD1

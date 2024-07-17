@@ -1,0 +1,24 @@
+Change Footprint: Footprint Not Found XCVR_ESP8266-01/ESP-01
+Change Component Comment : Designator=U? Old Comment=LD39200PU33R New Comment=ESP8266-01/ESP-01
+Change Managed Component Library Link : Designator=U? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=D9137EC3-669E-490D-A113-027112AEB241 New ItemGUID= Old RevisionGUID=E400212E-CF69-406E-9832-3358D235A851 New RevisionGUID=
+Change component parameters: Designator = "U?" ("U?"); Footprint = "FP-DFN6-7946637-MFG"; UniqueID = "\ZIBXIYWQ" ("\ZIBXIYWQ")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ESP8266-01/ESP-01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(CON10_P106_RJ45_TH_ST)
+Add component (AddParameter): Name = "Alternate Part Number-1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "TH-CON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Assmann"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "A-2004-2-4-LPS-N-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number-1"; Value = "A-2004-2-4-LPS-N-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier-1"; Value = "SP ROAD"; VariantName = "[No Variations]"
+Added Class: Name=MCU
+Added Member To Class: ClassName=power supply Member=Component C? 220u/25V
+Added Member To Class: ClassName=power supply Member=Component C? 220u/63V
+Added Member To Class: ClassName=power supply Member=Component J? 694106301002
+Added Member To Class: ClassName=power supply Member=Component R? 6.34k
+Added Member To Class: ClassName=power supply Member=Component R? 63.4k
+Added Room: Name=MCU

@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=TD1_P Pin=D5-K
+Added Pin To Net: NetName=TD1_P Pin=E_NET_1-1
+Added Net: Name=TD1_P
+Add Differential Pair: Number of nets in differential pair TD1 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_RXD is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_TXD is 1 instead of 2
+Added Room: Name=Ethernet_1
+Added Room: Name=Ethernet_2
+Added Room: Name=Ethernet_3
+Added Room: Name=MCU
+Added Room: Name=power supply
+Added Room: Name=USB and aother interfaces
+Add Class Member: Failed to add class member : TD1

@@ -1,0 +1,15 @@
+Add Component: Footprint Not Found XCVR_ESP8266-01/ESP-01
+Add Pin To Net: Unknown Pin: Pin U?-1
+Add Pin To Net: Unknown Pin: Pin U?-4
+Add Pin To Net: Unknown Pin: Pin U?-5
+Add Pin To Net: Unknown Pin: Pin U?-6
+Add Pin To Net: Unknown Pin: Pin U?-8
+Add Differential Pair: Number of nets in differential pair USB_RXD is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_TXD is 1 instead of 2
+Add Class Member: Failed to add class member : Component U? ESP8266-01/ESP-01
+Added Room: Name=Ethernet_1
+Added Room: Name=Ethernet_2
+Added Room: Name=Ethernet_3
+Added Room: Name=MCU
+Added Room: Name=power supply
+Added Room: Name=USB and aother interfaces

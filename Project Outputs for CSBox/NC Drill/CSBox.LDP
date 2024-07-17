@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: F:\fiverr\FIVERR_WORK\14th\CSBox\CSBox\CSBox.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=csbox-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=csbox-slotholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=csbox-rectholes.txt|DrillLayers=gtl,gbl

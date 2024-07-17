@@ -1,0 +1,398 @@
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=+3V3 Pin=U?-11
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=+3V3 Pin=U?-21
+Removed Pin From Net: NetName=GND Pin=U?-26
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Unknown Pin: Pin U?-43
+Remove Pin from Net: Unknown Pin: Pin U?-44
+Remove Pin from Net: Unknown Pin: Pin U?-49
+Remove Pin from Net: Unknown Pin: Pin U?-50
+Remove Pin from Net: Unknown Pin: Pin U?-74
+Remove Pin from Net: Unknown Pin: Pin U?-75
+Remove Pin from Net: Unknown Pin: Pin U?-97
+Remove Pin from Net: Unknown Pin: Pin U?-98
+Remove Pin from Net: Unknown Pin: Pin U?-99
+Remove Pin from Net: Unknown Pin: Pin U?-100
+Removed Member From Class: ClassName=Ethernet_1 Member=C?
+Removed Member From Class: ClassName=Ethernet_2 Member=C?
+Removed Member From Class: ClassName=Ethernet_3 Member=C?
+Removed Member From Class: ClassName=MCU Member=C?
+Removed Member From Class: ClassName=power supply Member=C?
+Removed Member From Class: ClassName=USB and aother interfaces Member=C?
+Removed Member From Class: ClassName=Ethernet_1 Member=D?
+Removed Member From Class: ClassName=Ethernet_2 Member=D?
+Removed Member From Class: ClassName=power supply Member=D?
+Removed Member From Class: ClassName=USB and aother interfaces Member=D?
+Removed Member From Class: ClassName=Ethernet_1 Member=E_NET_?
+Removed Member From Class: ClassName=Ethernet_2 Member=E_NET_?
+Removed Member From Class: ClassName=MCU Member=J?
+Removed Member From Class: ClassName=USB and aother interfaces Member=J?
+Removed Member From Class: ClassName=Ethernet_2 Member=R?
+Removed Member From Class: ClassName=Ethernet_3 Member=R?
+Removed Member From Class: ClassName=power supply Member=R?
+Removed Member From Class: ClassName=USB and aother interfaces Member=R?
+Removed Member From Class: ClassName=Ethernet_1 Member=U?
+Removed Member From Class: ClassName=Ethernet_2 Member=U?
+Removed Member From Class: ClassName=Ethernet_3 Member=U?
+Removed Member From Class: ClassName=MCU Member=U?
+Removed Member From Class: ClassName=USB and aother interfaces Member=U?
+Removed Member From Class: ClassName=Ethernet_1 Member=Y?
+Removed Member From Class: ClassName=Ethernet_2 Member=Y?
+Removed Member From Class: ClassName=Ethernet_3 Member=Y?
+Change Component Footprint: Designator=P? Old Footprint=61300611121 New Footprint=61300611121
+Change Component Footprint: Designator=J? Old Footprint=694106301002 New Footprint=694106301002
+Change Component Footprint: Designator=C? Old Footprint=FP-593DA-MFG New Footprint=FP-593DA-MFG
+Change Component Footprint: Designator=C? Old Footprint=FP-593DA-MFG New Footprint=FP-593DA-MFG
+Change Component Footprint: Designator=C? Old Footprint=FP-593DA-MFG New Footprint=FP-593DA-MFG
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C20
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=C? NewDesignator=C22
+Change Component Designator: OldDesignator=C? NewDesignator=C23
+Change Component Designator: OldDesignator=C? NewDesignator=C24
+Change Component Designator: OldDesignator=C? NewDesignator=C25
+Change Component Designator: OldDesignator=C? NewDesignator=C26
+Change Component Designator: OldDesignator=C? NewDesignator=C27
+Change Component Designator: OldDesignator=C? NewDesignator=C32
+Change Component Designator: OldDesignator=C? NewDesignator=C33
+Change Component Designator: OldDesignator=C? NewDesignator=C34
+Change Component Designator: OldDesignator=C? NewDesignator=C35
+Change Component Designator: OldDesignator=C? NewDesignator=C36
+Change Component Designator: OldDesignator=C? NewDesignator=C37
+Change Component Designator: OldDesignator=C? NewDesignator=C38
+Change Component Designator: OldDesignator=C? NewDesignator=C39
+Change Component Designator: OldDesignator=C? NewDesignator=C40
+Change Component Designator: OldDesignator=C? NewDesignator=C41
+Change Component Designator: OldDesignator=C? NewDesignator=C42
+Change Component Designator: OldDesignator=C? NewDesignator=C43
+Change Component Designator: OldDesignator=C? NewDesignator=C44
+Change Component Designator: OldDesignator=C? NewDesignator=C45
+Change Component Designator: OldDesignator=C? NewDesignator=C46
+Change Component Designator: OldDesignator=C? NewDesignator=C47
+Change Component Designator: OldDesignator=C? NewDesignator=C48
+Change Component Designator: OldDesignator=C? NewDesignator=C49
+Change Component Designator: OldDesignator=C? NewDesignator=C50
+Change Component Designator: OldDesignator=C? NewDesignator=C51
+Change Component Designator: OldDesignator=C? NewDesignator=C52
+Change Component Designator: OldDesignator=C? NewDesignator=C53
+Change Component Designator: OldDesignator=C? NewDesignator=C54
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=D? NewDesignator=D7
+Change Component Designator: OldDesignator=D? NewDesignator=D8
+Change Component Designator: OldDesignator=D? NewDesignator=D9
+Change Component Designator: OldDesignator=D? NewDesignator=D10
+Change Component Designator: OldDesignator=D? NewDesignator=D11
+Change Component Designator: OldDesignator=D? NewDesignator=D12
+Change Component Designator: OldDesignator=D? NewDesignator=D13
+Change Component Designator: OldDesignator=D? NewDesignator=D14
+Change Component Designator: OldDesignator=D? NewDesignator=D15
+Change Component Designator: OldDesignator=D? NewDesignator=D16
+Change Component Designator: OldDesignator=E_NET_? NewDesignator=E_NET_1
+Change Component Designator: OldDesignator=E_NET_? NewDesignator=E_NET_2
+Change Component Designator: OldDesignator=E_NET_? NewDesignator=E_NET_3
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=MH? NewDesignator=MH1
+Change Component Designator: OldDesignator=MH? NewDesignator=MH2
+Change Component Designator: OldDesignator=MH? NewDesignator=MH3
+Change Component Designator: OldDesignator=MH? NewDesignator=MH4
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U3
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Change Component Designator: OldDesignator=U? NewDesignator=U6
+Change Component Designator: OldDesignator=X? NewDesignator=X1
+Change Component Designator: OldDesignator=Y? NewDesignator=Y1
+Change Component Designator: OldDesignator=Y? NewDesignator=Y2
+Change Component Designator: OldDesignator=Y? NewDesignator=Y3
+Change Component Designator: OldDesignator=Y? NewDesignator=Y4
+Added Component: Designator=B1(QFP50P1600X1600X160-100N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "STM32F730V8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/stm32f730v8t6/stmicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/resource/en/datasheet/stm32f730v8.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32F730V8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-STM32F730V8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32F730V8T6?qs=%252BEew9%252B0nqrCl2wqvNLr5sw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=B2(QFP50P1600X1600X160-100N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "STM32F730V8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/stm32f730v8t6/stmicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/resource/en/datasheet/stm32f730v8.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32F730V8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-STM32F730V8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32F730V8T6?qs=%252BEew9%252B0nqrCl2wqvNLr5sw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C28(CAPC1608X90X35LL15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0603C225K9PACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C29(CAP 0402_1005)
+Add component (AddParameter): Name = "VALUE"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C30(CAP 0402_1005)
+Add component (AddParameter): Name = "VALUE"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C31(CAPC1608X90X35LL15T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0603C225K9PACTU"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XCVR_ESP8266-01/ESP-01
+Added Pin To Net: NetName=USB_RXD Pin=B1-1
+Added Pin To Net: NetName=SPI4_NSS_VE_1 Pin=B1-3
+Added Pin To Net: NetName=+3V3 Pin=B1-6
+Added Pin To Net: NetName=OSC_IN_32 Pin=B1-8
+Added Pin To Net: NetName=OSC_OUT_32 Pin=B1-9
+Added Pin To Net: NetName=GND Pin=B1-10
+Added Pin To Net: NetName=+3V3 Pin=B1-11
+Added Pin To Net: NetName=OSC_IN Pin=B1-12
+Added Pin To Net: NetName=OSC_OUT Pin=B1-13
+Added Pin To Net: NetName=RESET Pin=B1-14
+Added Pin To Net: NetName=MOSI Pin=B1-16
+Added Pin To Net: NetName=MISO Pin=B1-17
+Added Pin To Net: NetName=GND Pin=B1-19
+Added Pin To Net: NetName=+3V3 Pin=B1-20
+Added Pin To Net: NetName=+3V3 Pin=B1-21
+Added Pin To Net: NetName=RXD_WIFI Pin=B1-22
+Added Pin To Net: NetName=RXD_WIFI Pin=B1-23
+Added Pin To Net: NetName=GND Pin=B1-26
+Added Pin To Net: NetName=+3V3 Pin=B1-27
+Added Pin To Net: NetName=SPI4_MISO Pin=B1-43
+Added Pin To Net: NetName=SPI4_MOSI Pin=B1-44
+Added Pin To Net: NetName=SCK Pin=B1-46
+Added Pin To Net: NetName=GND Pin=B1-49
+Added Pin To Net: NetName=+3V3 Pin=B1-50
+Added Pin To Net: NetName=SPI2_NSS_VE_2 Pin=B1-51
+Added Pin To Net: NetName=SPI2_SCK Pin=B1-52
+Added Pin To Net: NetName=SPI2_MISO Pin=B1-53
+Added Pin To Net: NetName=SPI2_MOSI Pin=B1-54
+Added Pin To Net: NetName=SWDIO Pin=B1-72
+Added Pin To Net: NetName=GND Pin=B1-74
+Added Pin To Net: NetName=+3V3 Pin=B1-75
+Added Pin To Net: NetName=SWCLK Pin=B1-76
+Added Pin To Net: NetName=SPI3_NSS_GATEWAY_E_3 Pin=B1-77
+Added Pin To Net: NetName=SPI3_SCK Pin=B1-78
+Added Pin To Net: NetName=SPI3_MISO Pin=B1-79
+Added Pin To Net: NetName=SPI3_MOSI Pin=B1-80
+Added Pin To Net: NetName=CS Pin=B1-90
+Added Pin To Net: NetName=BOOT0 Pin=B1-94
+Added Pin To Net: NetName=USB_TXD Pin=B1-97
+Added Pin To Net: NetName=USB_RXD Pin=B1-98
+Added Pin To Net: NetName=GND Pin=B1-99
+Added Pin To Net: NetName=+3V3 Pin=B1-100
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=+3V3 Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=+3V3 Pin=C30-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-8
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC35_2
+Change Net Name : Old Net Name=NetD?_2 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR4_2
+Added Pin To Net: NetName=NetB1_48 Pin=B1-48
+Added Pin To Net: NetName=NetB1_48 Pin=C31-2
+Added Net: Name=NetB1_48
+Added Pin To Net: NetName=NetB1_73 Pin=B1-73
+Added Pin To Net: NetName=NetB1_73 Pin=C28-2
+Added Net: Name=NetB1_73
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=C8-2
+Added Pin To Net: NetName=NetC7_2 Pin=C9-2
+Added Pin To Net: NetName=NetC7_2 Pin=D1-K
+Added Pin To Net: NetName=NetC7_2 Pin=U1-3
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC34_2 Pin=C34-2
+Added Pin To Net: NetName=NetC34_2 Pin=U4-19
+Added Pin To Net: NetName=NetC34_2 Pin=Y2-2
+Added Net: Name=NetC34_2
+Added Pin To Net: NetName=NetC36_2 Pin=C36-2
+Added Pin To Net: NetName=NetC36_2 Pin=U4-25
+Added Net: Name=NetC36_2
+Added Pin To Net: NetName=NetC41_2 Pin=C41-2
+Added Pin To Net: NetName=NetC41_2 Pin=U5-19
+Added Pin To Net: NetName=NetC41_2 Pin=Y3-2
+Added Net: Name=NetC41_2
+Added Pin To Net: NetName=NetC42_2 Pin=C42-2
+Added Pin To Net: NetName=NetC42_2 Pin=U5-20
+Added Pin To Net: NetName=NetC42_2 Pin=Y3-1
+Added Net: Name=NetC42_2
+Added Pin To Net: NetName=NetC43_2 Pin=C43-2
+Added Pin To Net: NetName=NetC43_2 Pin=U5-25
+Added Net: Name=NetC43_2
+Added Pin To Net: NetName=NetC48_2 Pin=C48-2
+Added Pin To Net: NetName=NetC48_2 Pin=U6-19
+Added Pin To Net: NetName=NetC48_2 Pin=Y4-2
+Added Net: Name=NetC48_2
+Added Pin To Net: NetName=NetC49_2 Pin=C49-2
+Added Pin To Net: NetName=NetC49_2 Pin=U6-20
+Added Pin To Net: NetName=NetC49_2 Pin=Y4-1
+Added Net: Name=NetC49_2
+Added Pin To Net: NetName=NetC50_2 Pin=C50-2
+Added Pin To Net: NetName=NetC50_2 Pin=U6-25
+Added Net: Name=NetC50_2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=R3-2
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=U3-23
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U5-10
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U6-10
+Added Net: Name=NetR6_2
+Add Differential Pair: Number of nets in differential pair USB_RXD is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_TXD is 1 instead of 2
+Added Member To Class: ClassName=MCU Member=Component B1 STM32F730V8T6
+Added Member To Class: ClassName=USB and aother interfaces Member=Component B2 STM32F730V8T6
+Added Member To Class: ClassName=power supply Member=Component C1 100uF
+Added Member To Class: ClassName=power supply Member=Component C2 100uF
+Added Member To Class: ClassName=power supply Member=Component C3 100uF
+Added Member To Class: ClassName=power supply Member=Component C4 0.1uF
+Added Member To Class: ClassName=power supply Member=Component C5 1uF
+Added Member To Class: ClassName=power supply Member=Component C6 10uF
+Added Member To Class: ClassName=power supply Member=Component C7 10uF
+Added Member To Class: ClassName=power supply Member=Component C8 1uF
+Added Member To Class: ClassName=power supply Member=Component C9 0.1uF
+Added Member To Class: ClassName=MCU Member=Component C10 C1005C0G1H070D050BA
+Added Member To Class: ClassName=MCU Member=Component C11 CC0603JRNPO9BN180
+Added Member To Class: ClassName=MCU Member=Component C12 4.7 µF
+Added Member To Class: ClassName=MCU Member=Component C13 CC0603JRNPO9BN180
+Added Member To Class: ClassName=MCU Member=Component C14 GRM155R71H104KE14D
+Added Member To Class: ClassName=MCU Member=Component C15 GRM155R71H104KE14D
+Added Member To Class: ClassName=MCU Member=Component C16 GRM155R71H104KE14D
+Added Member To Class: ClassName=MCU Member=Component C17 GRM155R71H104KE14D
+Added Member To Class: ClassName=MCU Member=Component C18 GRM155R71H104KE14D
+Added Member To Class: ClassName=MCU Member=Component C19 GRM155R71H104KE14D
+Added Member To Class: ClassName=MCU Member=Component C20 GRM155R71H104KE14D
+Added Member To Class: ClassName=MCU Member=Component C21 GRM155R71H104KE14D
+Added Member To Class: ClassName=MCU Member=Component C22 GRM155R71H104KE14D
+Added Member To Class: ClassName=MCU Member=Component C23 GRM155R71H104KE14D
+Added Member To Class: ClassName=MCU Member=Component C24 GRM155R71H104KE14D
+Added Member To Class: ClassName=MCU Member=Component C25 GRM155R71H104KE14D
+Added Member To Class: ClassName=MCU Member=Component C26 C1005C0G1H070D050BA
+Added Member To Class: ClassName=MCU Member=Component C27 GRM155R71H104KE14D
+Added Member To Class: ClassName=MCU Member=Component C28 C0603C225K9PACTU
+Added Member To Class: ClassName=MCU Member=Component C29 1uF
+Added Member To Class: ClassName=MCU Member=Component C30 100nF
+Added Member To Class: ClassName=MCU Member=Component C31 C0603C225K9PACTU
+Added Member To Class: ClassName=MCU Member=Component C32 100pF
+Added Member To Class: ClassName=USB and aother interfaces Member=Component C33 100nF
+Added Member To Class: ClassName=Ethernet_1 Member=Component C34 CC0603JRNPO9BN180
+Added Member To Class: ClassName=Ethernet_1 Member=Component C35 CC0603JRNPO9BN180
+Added Member To Class: ClassName=Ethernet_1 Member=Component C36 593D106X9016A2TE3
+Added Member To Class: ClassName=Ethernet_1 Member=Component C37 C0402C104K8RACTU
+Added Member To Class: ClassName=Ethernet_1 Member=Component C38 C0402C104K8RACTU
+Added Member To Class: ClassName=Ethernet_1 Member=Component C39 C0402C104K8RACTU
+Added Member To Class: ClassName=Ethernet_1 Member=Component C40 C0402C104K8RACTU
+Added Member To Class: ClassName=Ethernet_2 Member=Component C41 CC0603JRNPO9BN180
+Added Member To Class: ClassName=Ethernet_2 Member=Component C42 CC0603JRNPO9BN180
+Added Member To Class: ClassName=Ethernet_2 Member=Component C43 593D106X9016A2TE3
+Added Member To Class: ClassName=Ethernet_2 Member=Component C44 C0402C104K8RACTU
+Added Member To Class: ClassName=Ethernet_2 Member=Component C45 C0402C104K8RACTU
+Added Member To Class: ClassName=Ethernet_2 Member=Component C46 C0402C104K8RACTU
+Added Member To Class: ClassName=Ethernet_2 Member=Component C47 C0402C104K8RACTU
+Added Member To Class: ClassName=Ethernet_3 Member=Component C48 CC0603JRNPO9BN180
+Added Member To Class: ClassName=Ethernet_3 Member=Component C49 CC0603JRNPO9BN180
+Added Member To Class: ClassName=Ethernet_3 Member=Component C50 593D106X9016A2TE3
+Added Member To Class: ClassName=Ethernet_3 Member=Component C51 C0402C104K8RACTU
+Added Member To Class: ClassName=Ethernet_3 Member=Component C52 C0402C104K8RACTU
+Added Member To Class: ClassName=Ethernet_3 Member=Component C53 C0402C104K8RACTU
+Added Member To Class: ClassName=Ethernet_3 Member=Component C54 C0402C104K8RACTU
+Added Member To Class: ClassName=power supply Member=Component D1 MBRS130LT3G
+Added Member To Class: ClassName=power supply Member=Component D2 BZT52C3V3-7-F
+Added Member To Class: ClassName=USB and aother interfaces Member=Component D3 APHHS1005CGCK
+Added Member To Class: ClassName=USB and aother interfaces Member=Component D4 APHHS1005CGCK
+Added Member To Class: ClassName=Ethernet_1 Member=Component D5 ESD3V3D9-TP
+Added Member To Class: ClassName=Ethernet_1 Member=Component D6 ESD3V3D9-TP
+Added Member To Class: ClassName=Ethernet_1 Member=Component D7 ESD3V3D9-TP
+Added Member To Class: ClassName=Ethernet_1 Member=Component D8 ESD3V3D9-TP
+Added Member To Class: ClassName=Ethernet_2 Member=Component D9 ESD3V3D9-TP
+Added Member To Class: ClassName=Ethernet_2 Member=Component D10 ESD3V3D9-TP
+Added Member To Class: ClassName=Ethernet_2 Member=Component D11 ESD3V3D9-TP
+Added Member To Class: ClassName=Ethernet_2 Member=Component D12 ESD3V3D9-TP
+Added Member To Class: ClassName=Ethernet_3 Member=Component D13 ESD3V3D9-TP
+Added Member To Class: ClassName=Ethernet_3 Member=Component D14 ESD3V3D9-TP
+Added Member To Class: ClassName=Ethernet_3 Member=Component D16 ESD3V3D9-TP
+Added Member To Class: ClassName=Ethernet_1 Member=Component E_NET_1 RJ45 LAN
+Added Member To Class: ClassName=Ethernet_2 Member=Component E_NET_2 RJ45 LAN
+Added Member To Class: ClassName=MCU Member=Component J2 B6B-EH-A(LF)(SN)
+Added Member To Class: ClassName=USB and aother interfaces Member=Component J3 473460001
+Added Member To Class: ClassName=power supply Member=Component MH2 Mounting Hole
+Added Member To Class: ClassName=power supply Member=Component MH3 Mounting Hole
+Added Member To Class: ClassName=power supply Member=Component MH4 Mounting Hole
+Added Member To Class: ClassName=MCU Member=Component P2 61300611121
+Added Member To Class: ClassName=power supply Member=Component R1 100mOHM
+Added Member To Class: ClassName=USB and aother interfaces Member=Component R2 100mOHM
+Added Member To Class: ClassName=USB and aother interfaces Member=Component R3 100mOHM
+Added Member To Class: ClassName=Ethernet_2 Member=Component R5 ERJ-2RKF2001X
+Added Member To Class: ClassName=Ethernet_3 Member=Component R6 ERJ-2RKF2001X
+Add Class Member: Failed to add class member : Component U2 ESP8266-01/ESP-01
+Added Member To Class: ClassName=USB and aother interfaces Member=Component U3 FT232RL-REEL
+Added Member To Class: ClassName=Ethernet_1 Member=Component U4 ENC28J60-I/ML
+Added Member To Class: ClassName=Ethernet_2 Member=Component U5 ENC28J60-I/ML
+Added Member To Class: ClassName=Ethernet_3 Member=Component U6 ENC28J60-I/ML
+Added Member To Class: ClassName=Ethernet_1 Member=Component Y2 ABM3-25.000MHZ-D2Y-T
+Added Member To Class: ClassName=Ethernet_2 Member=Component Y3 ABM3-25.000MHZ-D2Y-T
+Added Member To Class: ClassName=Ethernet_3 Member=Component Y4 ABM3-25.000MHZ-D2Y-T
+Added Room: Name=Ethernet_1
+Added Room: Name=Ethernet_2
+Added Room: Name=Ethernet_3
+Added Room: Name=MCU
+Added Room: Name=power supply
+Added Room: Name=USB and aother interfaces

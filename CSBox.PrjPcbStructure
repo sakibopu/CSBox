@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=Ethernet_1.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Ethernet_1.SchDoc|FileName=Ethernet_2.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Ethernet_1.SchDoc|FileName=Ethernet_3.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Ethernet_1.SchDoc|FileName=MCU.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Ethernet_1.SchDoc|FileName=power supply.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Ethernet_1.SchDoc|FileName=USB and aother interfaces.SchDoc|SheetNumber=3

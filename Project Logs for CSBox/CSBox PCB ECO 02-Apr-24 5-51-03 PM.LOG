@@ -1,0 +1,28 @@
+Removed Member From Class: ClassName=Ethernet_3 Member=D1
+Removed Member From Class: ClassName=Ethernet_3 Member=E_NET_2
+Removed Member From Class: ClassName=power supply Member=J2
+Removed Member From Class: ClassName=Ethernet_1 Member=R1
+Add Component: Footprint Not Found XCVR_ESP8266-01/ESP-01
+Add Component: Footprint Not Found XCVR_ESP8266-01/ESP-01
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-8
+Added Pin To Net: NetName=+3V3 Pin=U6-11
+Added Pin To Net: NetName=+3V3 Pin=U6-21
+Added Pin To Net: NetName=GND Pin=U6-26
+Add Differential Pair: Number of nets in differential pair USB_RXD is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair USB_TXD is 1 instead of 2
+Added Member To Class: ClassName=Ethernet_3 Member=Component D15 ESD3V3D9-TP
+Added Member To Class: ClassName=Ethernet_3 Member=Component E_NET_3 RJ45 LAN
+Added Member To Class: ClassName=power supply Member=Component J1 694106301002
+Added Member To Class: ClassName=Ethernet_1 Member=Component R4 ERJ-2RKF2001X
+Add Class Member: Failed to add class member : Component U2 ESP8266-01/ESP-01
+Add Class Member: Failed to add class member : Component U? ESP8266-01/ESP-01
+Added Room: Name=Ethernet_1
+Added Room: Name=Ethernet_2
+Added Room: Name=Ethernet_3
+Added Room: Name=MCU
+Added Room: Name=power supply
+Added Room: Name=USB and aother interfaces
